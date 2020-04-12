@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "minimist": "^1.2.3",
     "bcrypt": "^3.0.8",
     "body-parser": "^1.19.0",
     "crypto": "^1.0.1",
